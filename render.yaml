@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: collins-unguku-pos
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: node server.js
+    healthCheckPath: /api/state
+    envVars:
+      - key: NODE_ENV
+        value: production
+# NOTE: the Free plan has no persistent disk, so menu edits, orders, uploads,
+# the owner PIN, and payment secrets reset whenever Render restarts the
+# service. Use Settings -> Backup & restore -> Download backup regularly.
+# To upgrade later: change plan to 'starter', add a 1 GB disk mounted at
+# /data, and set DATA_DIR=/data - then redeploy.
