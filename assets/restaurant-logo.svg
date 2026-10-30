@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="culg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9a39"/>
+      <stop offset=".55" stop-color="#ef663f"/>
+      <stop offset="1" stop-color="#b84d42"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="97" fill="#ffffff"/>
+  <circle cx="100" cy="100" r="94" fill="none" stroke="#d8a85e" stroke-width="5"/>
+  <circle cx="100" cy="100" r="84" fill="url(#culg)"/>
+  <path d="M52 116a48 48 0 0 1 96 0z" fill="#ffffff"/>
+  <rect x="44" y="116" width="112" height="10" rx="5" fill="#ffffff"/>
+  <rect x="97" y="60" width="6" height="12" rx="3" fill="#ffdc5e"/>
+  <circle cx="100" cy="54" r="8" fill="#ffdc5e"/>
+  <path d="M58 62l2.6 6.4 6.4 2.6-6.4 2.6L58 80l-2.6-6.4L49 71l6.4-2.6z" fill="#ffdc5e"/>
+  <path d="M142 62l2.6 6.4 6.4 2.6-6.4 2.6-2.6 6.4-2.6-6.4-6.4-2.6 6.4-2.6z" fill="#ffdc5e"/>
+  <path d="M100 88c5-7 12-10 12-19 7 5 10 12 10 19a22 22 0 0 1-44 0c0-5 2-9 4.5-12.5.8 4.2 3.4 7 7 8.5-1.8-5.2-.3-10.4 4-14 2.6 5.4 6.5 10.4 6.5 18z" fill="#ffdc5e" opacity=".92"/>
+</svg>

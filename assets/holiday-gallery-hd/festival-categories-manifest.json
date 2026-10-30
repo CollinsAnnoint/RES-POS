@@ -1,0 +1,38 @@
+[
+ {
+  "id": "valentines-01",
+  "theme": "valentines",
+  "title": "Roses and candles on a dinner table",
+  "source": "https://pexels.com/photo/a-candle-and-flowers-on-the-table-at-an-elegant-banquet-16935969",
+  "file": "valentines-01.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "valentines-02",
+  "theme": "valentines",
+  "title": "Romantic dinner table with red candles",
+  "source": "https://pexels.com/photo/elegant-dinner-table-with-red-candles-29585256",
+  "file": "valentines-02.jpg",
+  "width": 1920,
+  "height": 2560
+ },
+ {
+  "id": "new-year-01",
+  "theme": "new-year",
+  "title": "Fireworks over a city river",
+  "source": "https://pexels.com/photo/fireworks-display-1268667",
+  "file": "new-year-01.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "new-year-02",
+  "theme": "new-year",
+  "title": "Colorful fireworks over the skyline",
+  "source": "https://pexels.com/photo/colorful-fireworks-display-during-festival-celebration-29502853",
+  "file": "new-year-02.jpg",
+  "width": 1706,
+  "height": 2560
+ }
+]

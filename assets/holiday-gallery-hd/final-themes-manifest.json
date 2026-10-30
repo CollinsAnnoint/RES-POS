@@ -1,0 +1,38 @@
+[
+ {
+  "id": "lunar-new-year-01",
+  "theme": "lunar-new-year",
+  "title": "Chinese New Year lion dance",
+  "source": "https://pexels.com/photo/red-dragon-mascot-on-the-street-4206619",
+  "file": "lunar-new-year-01.jpg",
+  "width": 1920,
+  "height": 2400
+ },
+ {
+  "id": "lunar-new-year-02",
+  "theme": "lunar-new-year",
+  "title": "Lion dance with red lanterns",
+  "source": "https://pexels.com/photo/lion-dance-show-10959540",
+  "file": "lunar-new-year-02.jpg",
+  "width": 1920,
+  "height": 2924
+ },
+ {
+  "id": "celebration-01",
+  "theme": "celebration",
+  "title": "Pink birthday cake with party decorations",
+  "source": "https://pexels.com/photo/birthday-cake-on-a-dinner-table-7180728",
+  "file": "celebration-01.jpg",
+  "width": 1920,
+  "height": 1282
+ },
+ {
+  "id": "celebration-02",
+  "theme": "celebration",
+  "title": "Birthday cake with colorful candles",
+  "source": "https://pexels.com/photo/a-birthday-cake-with-lighted-candles-on-top-9319090",
+  "file": "celebration-02.jpg",
+  "width": 1920,
+  "height": 2880
+ }
+]

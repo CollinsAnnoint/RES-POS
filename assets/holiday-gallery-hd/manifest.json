@@ -1,0 +1,38 @@
+[
+ {
+  "id": "christmas-01",
+  "theme": "christmas",
+  "title": "Red and white Christmas ornament detail",
+  "source": "https://www.pexels.com/search/christmas%20ornaments%20background/",
+  "file": "christmas-01.jpg",
+  "width": 1920,
+  "height": 1283
+ },
+ {
+  "id": "christmas-02",
+  "theme": "christmas",
+  "title": "Red baubles among evergreen branches",
+  "source": "https://www.pexels.com/search/christmas%20ornaments%20background/",
+  "file": "christmas-02.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "easter-01",
+  "theme": "easter",
+  "title": "Spring bunny, eggs and flowers",
+  "source": "https://pexels.com/photo/silver-figurine-of-a-bunny-in-an-easter-decoration-11785753",
+  "file": "easter-01.jpg",
+  "width": 1920,
+  "height": 2880
+ },
+ {
+  "id": "easter-02",
+  "theme": "easter",
+  "title": "Bunny and egg in a spring meadow",
+  "source": "https://pexels.com/photo/easter-egg-and-brown-bunny-on-the-brown-grass-field-7258468",
+  "file": "easter-02.jpg",
+  "width": 1920,
+  "height": 1280
+ }
+]

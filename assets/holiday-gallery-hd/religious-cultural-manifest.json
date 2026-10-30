@@ -1,0 +1,56 @@
+[
+ {
+  "id": "good-friday-01",
+  "theme": "good-friday",
+  "title": "Ornate cross against a clear sky",
+  "source": "https://pexels.com/photo/wooden-orthodox-cross-with-carvings-against-sky-34183390",
+  "file": "good-friday-01.jpg",
+  "width": 1920,
+  "height": 2560
+ },
+ {
+  "id": "good-friday-02",
+  "theme": "good-friday",
+  "title": "Wooden cross at a sunset",
+  "source": "https://pexels.com/photo/cross-during-sunset-20889059",
+  "file": "good-friday-02.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "hanukkah-01",
+  "theme": "hanukkah",
+  "title": "Hanukkah menorah, sufganiyot and challah",
+  "source": "https://pexels.com/photo/close-up-photo-of-candle-holder-6115924",
+  "file": "hanukkah-01.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "hanukkah-02",
+  "theme": "hanukkah",
+  "title": "Warm Hanukkah family table",
+  "source": "https://pexels.com/photo/close-up-photo-of-candle-holder-6115924",
+  "file": "hanukkah-02.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "kwanzaa-01",
+  "theme": "kwanzaa",
+  "title": "Kwanzaa celebration in traditional attire",
+  "source": "https://pexels.com/photo/woman-in-blue-kaftan-dress-reading-book-6192367",
+  "file": "kwanzaa-01.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "kwanzaa-02",
+  "theme": "kwanzaa",
+  "title": "Kwanzaa kinara, fruit and table d\u00e9cor",
+  "source": "https://pexels.com/photo/lighted-candles-on-glass-surface-6192592",
+  "file": "kwanzaa-02.jpg",
+  "width": 1920,
+  "height": 2880
+ }
+]

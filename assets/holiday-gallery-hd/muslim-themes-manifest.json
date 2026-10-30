@@ -1,0 +1,56 @@
+[
+ {
+  "id": "ramadan-01",
+  "theme": "ramadan",
+  "title": "Dates with lantern for Ramadan",
+  "source": "https://pexels.com/photo/close-up-photo-of-raisins-and-dates-2291592",
+  "file": "ramadan-01.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "ramadan-02",
+  "theme": "ramadan",
+  "title": "Dates in a glass bowl on the table",
+  "source": "https://pexels.com/photo/close-up-photo-of-raisins-and-dates-2291592",
+  "file": "ramadan-02.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "eid-fitr-01",
+  "theme": "eid-fitr",
+  "title": "Dates and lantern on a festive tray",
+  "source": "https://pexels.com/photo/fruits-and-gift-on-golden-tray-7249196",
+  "file": "eid-fitr-01.jpg",
+  "width": 1920,
+  "height": 2400
+ },
+ {
+  "id": "eid-fitr-02",
+  "theme": "eid-fitr",
+  "title": "Ajwa dates arranged for celebration",
+  "source": "https://pexels.com/photo/close-up-photo-of-raisins-and-dates-2291592",
+  "file": "eid-fitr-02.jpg",
+  "width": 1920,
+  "height": 2880
+ },
+ {
+  "id": "eid-adha-01",
+  "theme": "eid-adha",
+  "title": "Cow at an Eid al-Adha livestock market",
+  "source": "https://pexels.com/photo/decorated-cow-at-a-festival-in-bangladesh-32355112",
+  "file": "eid-adha-01.jpg",
+  "width": 1920,
+  "height": 1282
+ },
+ {
+  "id": "eid-adha-02",
+  "theme": "eid-adha",
+  "title": "Livestock at a traditional market",
+  "source": "https://pexels.com/photo/man-with-cow-during-eid-festival-in-bangladesh-28308873",
+  "file": "eid-adha-02.jpg",
+  "width": 1848,
+  "height": 2768
+ }
+]
